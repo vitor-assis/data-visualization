@@ -1,0 +1,6 @@
+pandas==1.5.3
+streamlit==1.24.1
+pycaret==3.0.4
+catboost==1.2
+scikit-learn==1.2.2
+numpy==1.23.5
